@@ -16,12 +16,15 @@ Welcome to the Mobile Calculator App! This application is designed to provide us
 The app features a user-friendly interface with easily accessible buttons for each arithmetic operation. Below are the screenshots illustrating the main menu and start symbol of the application.
 
 ### Main Menu
-![Main Menu](./main%20menu.png)
+<img src="./main%20menu.png" alt="Main Menu" width="300"/>
+
 The main menu provides buttons for each arithmetic operation. Users can quickly select the desired operation by tapping on the corresponding button.
 
 ### Start Symbol
-![Start Symbol](./start%20symbol.png)
+<img src="./start%20symbol.png" alt="Start Symbol" width="300"/>
+
 The start symbol screen is displayed when the application is launched, featuring a visually appealing icon that represents the calculator.
+
 
 ## How to Use
 1. **Launch the App**: Open the Mobile Calculator App on your device. You will be greeted by the start symbol screen.
